@@ -1,0 +1,25 @@
+[33mcommit 05e1ca8df0a42385031e3cf5035a74987244b20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: komivi <julinas@hotmail.com>
+Date:   Sat Dec 2 13:34:15 2023 -0600
+
+    creating main.html
+
+[1mdiff --git a/.main.html.swp b/.main.html.swp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e37a9f7[m
+Binary files /dev/null and b/.main.html.swp differ
+[1mdiff --git a/learning.html b/learning.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..07d3b2a[m
+[1m--- /dev/null[m
+[1m+++ b/learning.html[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mlearning.html[m
+[32m+[m
+[1mdiff --git a/main.html b/main.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dba8c65[m
+[1m--- /dev/null[m
+[1m+++ b/main.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mmain.html[m
